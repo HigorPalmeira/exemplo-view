@@ -1,4 +1,4 @@
-import { Home } from '@/components/Image';
+import { Home } from '@/app/Home'; // '@/components/Image';
 import { registerRootComponent } from 'expo';
 
 // import App from './App';
